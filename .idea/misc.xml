@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming/TimeTableManager/app/src/main/res/layout/activity001.xml" value="0.24166666666666667" />
+        <entry key="..\:/Programming/TimeTableManager/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/Programming/TimeTableManager/app/src/main/res/layout/activity_week.xml" value="0.1921875" />
+        <entry key="..\:/Programming/TimeTableManager/app/src/main/res/layout/activity_week_single_item.xml" value="0.1921875" />
+        <entry key="..\:/Programming/TimeTableManager/app/src/main/res/layout/datepicker.xml" value="0.24166666666666667" />
+        <entry key="..\:/Programming/TimeTableManager/app/src/main/res/layout/main_activity_single_item.xml" value="0.1" />
+        <entry key="..\:/Programming/TimeTableManager/app/src/main/res/layout/navigation.xml" value="0.24166666666666667" />
+        <entry key="..\:/Programming/TimeTableManager/app/src/main/res/layout/timesetter.xml" value="0.2248995983935743" />
+        <entry key="..\:/Programming/TimeTableManager/app/src/main/res/layout/timetablemenu.xml" value="0.24166666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

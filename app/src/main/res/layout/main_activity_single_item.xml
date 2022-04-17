@@ -1,0 +1,53 @@
+<androidx.cardview.widget.CardView
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@color/theme"
+    android:elevation="4dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivMain"
+            android:layout_width="85dp"
+            android:layout_height="105dp"
+            android:layout_marginStart="10dp" />
+
+        <TextView
+            android:id="@+id/tvMain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:layout_toRightOf="@+id/ivMain"
+            android:text="TimeTable"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvMain"
+            android:layout_marginLeft="6dp"
+            android:layout_toRightOf="@+id/ivMain"
+            android:text="Description"
+            android:textSize="16dp"
+
+            />
+
+        <TextView
+            android:id="@+id/tvClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvDescription"
+            android:layout_alignBottom="@+id/ivMain"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="6dp"
+            android:text="Click here"
+            android:textSize="12dp"
+            />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

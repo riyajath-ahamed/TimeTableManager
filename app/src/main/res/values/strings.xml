@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TimeTable Manager</string>
+    <string-array name="Main">
+        <item>TimeTable</item>
+        <item>Subjects</item>
+        <item>Faculty</item>
+        <!--        <item>Notepad</item>-->
+    </string-array>
+
+    <string-array name="Description">
+        <item>desc 1</item>
+        <item>desc 2</item>
+        <item>desc 3</item>
+    </string-array>
+
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+</resources>
